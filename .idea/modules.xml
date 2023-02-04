@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Dev_API.iml" filepath="$PROJECT_DIR$/.idea/Dev_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/30-Desenvolvendo-Rest-APIs-com-Python-e-Flask.iml" filepath="$PROJECT_DIR$/.idea/30-Desenvolvendo-Rest-APIs-com-Python-e-Flask.iml" />
     </modules>
   </component>
 </project>
